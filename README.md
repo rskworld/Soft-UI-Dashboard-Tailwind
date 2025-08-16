@@ -45,8 +45,8 @@ Looking for professional web development services? We offer:
 
 1. **Download the project**
    ```bash
-   git clone https://github.com/yourusername/soft-ui-dashboard-tailwind.git
-   cd soft-ui-dashboard-tailwind
+   git clone https://github.com/rskworld/Soft-UI-Dashboard-Tailwind.git
+   cd Soft-UI-Dashboard-Tailwind
    ```
 
 2. **Open in browser**
@@ -118,3 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project is maintained by [RSK World](https://rskworld.in). For professional services and custom implementations, please contact us.*
+
